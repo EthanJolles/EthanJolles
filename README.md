@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am currently a first-year student studying Computer Science
+- 🔭 I am currently a first-year student studying Computer Science
 
-I work as a Software Developer in Test at Solvd, Inc
+- 🌱 I work as a Software Developer in Test at Solvd, Inc
 
-My main language is Java, but I am pursuing more as time goes on
+- 💻 My main language is Java, but I am pursuing more as time goes on
 
-My educational YouTube channel Jolles Tech is: https://www.youtube.com/channel/UCTeBlhXUqCnUm6Fuz7Nx8sg
+- 🎬 My educational YouTube channel Jolles Tech is: https://www.youtube.com/channel/UCTeBlhXUqCnUm6Fuz7Nx8sg
 
 
 <!--
