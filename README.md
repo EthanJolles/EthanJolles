@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I am currently a first-year student studying Computer Science
+- 🔭 I am currently a second-year student studying Computer Science
 
 - 🌱 I work as a Software Developer in Test at Solvd, Inc
 
 - 💻 My main language is Java, but I am pursuing more as time goes on
+
+- ⚡ I am the founder of Jolles Tech
 
 - 📫 Take a look at my company's website! https://jolles-tech.herokuapp.com/
 
