@@ -8,7 +8,7 @@
 
 - ⚡ Founder of Jolles Tech
 
-- 📫 Take a look at my company's website! https://jolles-tech.herokuapp.com/
+- 📫 Take a look at my company's website! https://jollestech.herokuapp.com/
 
 - 🎬 My educational YouTube channel, Jolles Tech, is: https://www.youtube.com/channel/UCTeBlhXUqCnUm6Fuz7Nx8sg
 
