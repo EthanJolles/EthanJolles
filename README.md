@@ -6,7 +6,7 @@
 
 - 💻 My main language is Java, but I am pursuing more as time goes on
 
-- ⚡ I am the founder of Jolles Tech
+- ⚡ Founder of Jolles Tech
 
 - 📫 Take a look at my company's website! https://jolles-tech.herokuapp.com/
 
