@@ -8,7 +8,7 @@
 
 - ⚡ Founder of Jolles Tech https://jollestech.herokuapp.com/
 
-- 🎬 My educational YouTube channel, Jolles Tech, is: https://www.youtube.com/channel/UCTeBlhXUqCnUm6Fuz7Nx8sg
+- 🎬 My educational YouTube channel: https://www.youtube.com/channel/UCTeBlhXUqCnUm6Fuz7Nx8sg
 
 
 <!--
