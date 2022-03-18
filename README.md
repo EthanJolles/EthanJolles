@@ -6,9 +6,7 @@
 
 - 💻 My main language is Java, but I am pursuing more as time goes on
 
-- ⚡ Founder of Jolles Tech
-
-- 📫 Take a look at my company's website! https://jollestech.herokuapp.com/
+- ⚡ Founder of Jolles Tech https://jollestech.herokuapp.com/
 
 - 🎬 My educational YouTube channel, Jolles Tech, is: https://www.youtube.com/channel/UCTeBlhXUqCnUm6Fuz7Nx8sg
 
