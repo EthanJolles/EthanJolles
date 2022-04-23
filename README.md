@@ -8,8 +8,7 @@
 
 - ⚡ Founder of Jolles Tech https://jollestech.herokuapp.com/
 
-- 🎬 My educational YouTube channel: https://www.youtube.com/channel/UCTeBlhXUqCnUm6Fuz7Nx8sg
-
+- 🎬 My educational YouTube channel: https://www.youtube.com/channel/UCqg6t9AHnfEG21F9Gdf11KA
 
 <!--
 **EthanJolles/ethanjolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
