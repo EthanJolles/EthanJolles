@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I am currently a second-year student studying Computer Science
+- 🔭 I am currently a junior studying Computer Science
 
 - 🌱 I work as a Software Developer in Test at Solvd, Inc
 
-- 💻 My main language is Java, but I am pursuing more as time goes on
-
-- ⚡ Founder of Jolles Tech https://jollestech.herokuapp.com/
-
-- 🎬 My educational YouTube channel: https://www.youtube.com/channel/UCqg6t9AHnfEG21F9Gdf11KA
+- 💻 My main programming languages are Java and JavaScript.
 
 <!--
 **EthanJolles/ethanjolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
