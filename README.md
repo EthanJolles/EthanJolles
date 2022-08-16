@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently a junior studying Computer Science
+- 🔭 I am currently a junior studying Computer Science at University of Maryland Global Campus
 
 - 🌱 I work as a Software Developer in Test at Solvd, Inc
 
