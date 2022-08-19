@@ -4,8 +4,6 @@
 
 - 🌱 I work as a Software Developer in Test at Solvd, Inc
 
-- 💻 My main programming languages are Java and JavaScript.
-
 <!--
 **EthanJolles/ethanjolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
