@@ -3,7 +3,7 @@
 - 🔭 I am currently a junior studying Computer Science at University of Maryland Global Campus
 
 - 🌱 I work as a Test Automation Engineer at Solvd, Inc
-- My [https://www.linkedin.com/in/ethan-jolles-83626a221/](LinkedIn)
+- My [LinkedIn](https://www.linkedin.com/in/ethan-jolles-83626a221/)
 
 <!--
 **EthanJolles/ethanjolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
